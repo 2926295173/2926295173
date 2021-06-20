@@ -10,7 +10,7 @@ I am aoian,a student in China.
 
 24%[=============>                                                 ] 100        0K/s   in +∞s 【python】
 
-0%[=>                                                              ] 100       655K/s  in -s 【kotlin】
+0%[=>                                                              ] 100       655K/s  in -s 【Go】
 
 1%[==>                                                             ] 100     --.-K/s   in --s 【Javascript】
 
