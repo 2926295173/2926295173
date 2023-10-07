@@ -31,6 +31,18 @@ cloudflare测速
 
 https://github.com/XIU2/CloudflareSpeedTest
 
+安卓应用层抓包通杀脚本
+
+https://github.com/r0ysue/r0capture
+
+反爬虫JS破解与混淆还原手册
+
+https://github.com/LoseNine/Restore-JS
+
+Trojan 通用客户端,精简
+
+https://github.com/xiamenhappy/winXray-1
+
 
 ```
 
