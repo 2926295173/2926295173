@@ -3,15 +3,36 @@ I am aoian,a hut student from China.
 
 recently 
 将百度代码化
+
 https://github.com/1049451037/MagicBaidu
+
 稳定代理站点
+
 https://github.com/glados-network/GLaDOS
+
 hid通信库
+
 https://github.com/libusb/hidapi
+
 精简java http
+
 https://github.com/GateOfTruth/OkSimple
+
 看剧站
+
 https://github.com/tgbot-collection/YYeTsBot
+
+so in apk dedbug
+
+https://github.com/AeonLucid/AndroidNativeEmu
+
+cloudflare测速
+
+https://github.com/XIU2/CloudflareSpeedTest
+
+
+
+
 ```
 60%[=========================================>                     ] 100       100K/s  in 2s 【English】
 
