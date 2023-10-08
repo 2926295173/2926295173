@@ -15,6 +15,10 @@ hid通信库
 
 https://github.com/libusb/hidapi
 
+面板开发
+
+https://github.com/vbenjs/vben-admin-thin-next
+
 精简java http
 
 https://github.com/GateOfTruth/OkSimple
