@@ -1,5 +1,5 @@
 ### hi hello 👋
-I am aoian,a hut student from China.
+I am aoian,a student from BBQ.
 
 recently 
 ```
@@ -52,8 +52,6 @@ https://github.com/xiamenhappy/winXray-1
 
 ```
 60%[=========================================>                     ] 100       100K/s  in 2s 【English】
-
-80%[======================================================>        ] 100       100K/s  in 0s 【Chinese】
 
 30%[================>                                              ] +∞         20K/s  in +∞s 【C】
 
