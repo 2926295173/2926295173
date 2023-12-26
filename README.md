@@ -1,7 +1,7 @@
 ### hi hello 👋
 I am aoian,a student from BBQ.
 
-# Acknowledgments project：
+# Acknowledgments projects：
 
 ## Android 
 ## Windows
