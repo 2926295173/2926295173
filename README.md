@@ -1,6 +1,10 @@
 ### hi hello 👋
 I am aoian,a student from BBQ.
 
-Acknowledgments project：
+# Acknowledgments project：
 
-Acknowledgments project：
+## Android 
+## Windows
+
+
+# Acknowledgments project：
