@@ -7,4 +7,4 @@ I am aoian,a student from BBQ.
 ## Windows
 
 
-# Acknowledgments project：
+# Acknowledgments individuals：
