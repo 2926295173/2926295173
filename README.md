@@ -1,6 +1,6 @@
 ### hi hello 👋
 
-I am aoian,a student from BBQ.
+I am aoian,a postgraduate from China.
 
 I like reading, playing the piano, flute, writing code, Chinese medicine, Zhouyi, and traveling.
 
@@ -10,9 +10,16 @@ No girlfriend, looking for a girlfriend.
 
  NULL
 
-# Acknowledgments individuals：
+# Exploration of programming languages
 
-NULL
+C/c++
+ziglang
+python
+cangjie
+go
+js
+
+
 # field of study
 
 AI multimodality
