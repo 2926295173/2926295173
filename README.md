@@ -12,12 +12,28 @@ No girlfriend, looking for a girlfriend.
 
 # Exploration of programming languages
 
-C/c++
-ziglang
-python
-cangjie
-go
-js
+I enjoy exploring different programming languages.
+
+c (.c)        [--------] 80%
+
+ziglang (.zig)[-       ] 5%
+
+Go (.go)      [--      ]20%
+
+
+C++ (.cpp)    [----    ] 40%
+
+Rust (.rs)    [-       ] 1%
+
+
+
+python (.py)  [------  ] 80%
+
+cangjie (.cj) [-       ] 5%
+
+JavaScript (.js)
+
+[---     ] 30%
 
 
 # field of study
