@@ -18,13 +18,12 @@
 
 | Language   | Familiarity | Vibe                          |
 |------------|-------------|-------------------------------|
-| Python     | `████████░░` | AI multimodality powerhouse   |
-| C          | `████████░░` | Systems programming backbone  |
-| C++        | `████░░░░░░` | Reverse engineering & perf    |
-| Go         | `██░░░░░░░░` | Simplicity & concurrency      |
-| JavaScript | `███░░░░░░░` | Web glue & tooling            |
-| Rust/Zig   | `█░░░░░░░░░` | Future-ready · safety & clarity |
-| Cangjie    | `█░░░░░░░░░` | Exploring Chinese-native PLs  |
+| Python     | `████████░░` | The language I primarily use       |
+| C          | `████████░░` | nothing to say，usually use |
+| JavaScript | `███░░░░░░░` | very hot            |
+| Rust/Zig   | `█░░░░░░░░░` | some fun |
+| Java    | `█░░░░░░░░░` | some fun ，reverse will use it |
+| kotlin    | `█░░░░░░░░░` | Exploring Chinese-native PLs  |
 
 #### 🎹 Beyond the Terminal
 
