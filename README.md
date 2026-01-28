@@ -19,11 +19,11 @@
 | Language   | Familiarity | Vibe                          |
 |------------|-------------|-------------------------------|
 | Python     | `████████░░` | The language I primarily use       |
-| C          | `████████░░` | nothing to say，usually use |
-| JavaScript | `███░░░░░░░` | very hot            |
-| Rust/Zig   | `█░░░░░░░░░` | some fun |
-| Java    | `█░░░░░░░░░` | some fun ，reverse will use it |
-| kotlin    | `█░░░░░░░░░` | Exploring Chinese-native PLs  |
+| C          | `████░░░░░░` | nothing to say，usually use |
+| JavaScript | `██░░░░░░░░` | very hot ，use it in frida           |
+| Rust       | `█░░░░░░░░░` | sounds fun |
+| Java       | `█░░░░░░░░░` | some fun ，reverse will use it |
+| kotlin     | `█░░░░░░░░░` | use it in Android  |
 
 #### 🎹 Beyond the Terminal
 
