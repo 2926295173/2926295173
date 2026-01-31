@@ -29,7 +29,7 @@
 
 > "Code is rational poetry; music is emotional algorithm"
 
-- 🎹 Digital piano improvisation | 📚 Deep reading: ![*Thiauooba Prophecy*](https://thiaoouba.com/) & *The Diary of Anne Frank*
+- 🎹 Digital piano improvisation | 📚 Deep reading: [*Thiauooba Prophecy*](https://thiaoouba.com/) & *The Diary of Anne Frank*
 - ✈️ Wandering with purpose | ☯️ Training systemic intuition through I Ching divination
 
 ---
